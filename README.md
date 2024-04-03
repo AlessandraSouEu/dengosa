@@ -1,2 +1,1 @@
-# dengosa
-dengosa
+# ste1
